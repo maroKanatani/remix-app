@@ -1,7 +1,6 @@
-node_modules
-
-/.cache
-/build
-.env
-.yarn/install-state.gz
 .DS_Store
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
